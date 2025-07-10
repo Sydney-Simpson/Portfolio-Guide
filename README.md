@@ -1,8 +1,9 @@
 # Sydney's Portfolio
 
 # Table of Contents
-[Data Analysis](#Data-Analysis)
-[SQL](#SQL)
+[Data Analysis](#Data-Analysis)  </br>
+[SQL](#SQL)  </br>
+[Machine Learning](#Machine-Learning)
 
 ## 📊  Data Analysis
 | Project Link | Completion Date | Area of Analysis | Tools | Project Description | 
@@ -13,3 +14,8 @@
 | Project Link | Area of Analysis | Description |
 |--------------|------------------|-------------|
 |🔆[8-Week SQL Challenge](https://github.com/Sydney-Simpson/8-Week-SQL-Challenge)| Data analysis, data transformation | This repo serves as my answer to the solutions for the 8 case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com/). They show case my abilities in writing SQL queries and problem solving skills.|
+
+## Machine Learning
+| Project Link | Completion Date | Area of Analysis | Tools | Project Description | 
+|---|---|---|---|---|
+| [HCV Status Prediction Using a Random Forest Classification Model](https://github.com/Sydney-Simpson/HCV-Status-Prediction-Using-a-Random-Forest-Classification-Model/tree/main) | In Progress | Machine Learning, Decision Trees, Random Forest Classification | Python (pandas, numpy, seaborn, sklearn), Jupyter Notebook | TBD |
