@@ -14,6 +14,7 @@
 | Project Link | Area of Analysis | Description |
 |--------------|------------------|-------------|
 |🔆[8-Week SQL Challenge](https://github.com/Sydney-Simpson/8-Week-SQL-Challenge)| Data analysis, data transformation | This repo serves as my answer to the solutions for the 8 case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com/). They show case my abilities in writing SQL queries and problem solving skills.|
+| [Visualizing Hospital Acquired Infections in Health Value Based Performance Facilities](https://github.com/Sydney-Simpson/HVBP-Hospital-Acquired-Infections) | Data Wrangling and Manupulation | Created an interactive visualization tool using publicly available data to display a dashboard on hospital acquired infection rates from 2021 - 2023|
 
 ## Machine Learning
 | Project Link | Completion Date | Area of Analysis | Tools | Project Description | 
